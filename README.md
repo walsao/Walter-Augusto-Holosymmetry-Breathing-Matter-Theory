@@ -57,3 +57,7 @@ You will see the breathing field evolve and condense into dynamic structures, vi
 To my Grandmother Maria Roca, Mother, Uncle and mentor Raul Roca, to my cousin Raul Roca, Father Walter F. Lettau, and everyone else who was a true friend, and believed in me, even if just a little, along the long road!!!!!! 
 
 With deep gratitude to Primus, my AI collaborator, for helping bring this vision into the world.
+
+🪪 License
+
+This writing and associated materials are provided under the MIT License.
